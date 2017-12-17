@@ -7,8 +7,7 @@ long factorial(int n){
         return 1;
 }
 
-int main()
-{
+int main(){
     int n;
     printf("\nIngresa un entero positivo: ");
     scanf("%d", &n);
